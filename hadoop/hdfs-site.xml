@@ -1,0 +1,10 @@
+<configuration>
+<property>
+<name>dfs.namenode.name.dir</name>
+<value>/data/namenode/</value>
+</property>
+<property>
+<name>dfs.datanode.data.dir</name>
+<value>/data/datanode/</value>
+</property>
+</configuration>
